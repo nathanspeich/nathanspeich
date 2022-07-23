@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nathan Speich</h1>
 I am a software engineer passionate about AI and machine learning!
+</br>
 - 📫 How to reach me **nathanspeich@icloud.com**
 
 <h3 align="left">Languages and Tools:</h3>
