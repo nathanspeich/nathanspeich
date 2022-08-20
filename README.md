@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nathan</h1>
-I am a software engineer passionate about AI and Machine Learning!
+I am a software engineer with a passion for developing websites and web applications, skilled in solving problems with HTML5, CSS3, and JavaScript. 
 </br>
 You can find me on <a href="https://twitter.com/nathanspeich" target="_blank">Twitter</a>, <a href="https://discord.com/channels/NathanS#5842" target="_blank">Discord</a>, and <a href="https://www.linkedin.com/in/nathan-speich-732601191" target="_blank">LinkedIn</a>
 </br>
