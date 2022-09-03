@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nathan</h1>
 
+<p>I am a full-stack software engineer with a passion for developing websites and web applications, skilled in solving problems with HTML5, CSS3, and JavaScript.</p>
+
 - All of my projects are available at [https://nathanspeich.netlify.app/](https://nathanspeich.netlify.app/)
 
 - You can reach me at **nathanspeich@icloud.com**
