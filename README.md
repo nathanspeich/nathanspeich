@@ -4,7 +4,7 @@
 
 - All of my projects are available at [https://nathanspeich.netlify.app/](https://nathanspeich.netlify.app/)
 
-- You can reach me at **nathanspeich@icloud.com**
+- You can reach me at nathanspeich@icloud.com
 
 - I organize [Columbus Code & Coffee](https://www.meetup.com/columbus-code-and-coffee/). All are welcome!
 
