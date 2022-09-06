@@ -1,14 +1,98 @@
-<h1 align="center">Hi 👋, I'm Nathan</h1>
+### <h1 align="center">Hi, I'm Nathan</div>
 
-<p>I am a full-stack software engineer with a passion for developing websites and web applications, skilled in solving problems with HTML5, CSS3, and JavaScript.</p>
+<p align="center">I am a creative, detail-oriented, software engineer with a proven track record of creating and implementing successful front and back end web applications.</p>
 
-- All of my projects are available at [https://nathanspeich.netlify.app/](https://nathanspeich.netlify.app/)
+<div align="center">
 
-- You can reach me at nathanspeich@icloud.com
+## Connect with me
 
-- I organize [Columbus Code & Coffee](https://www.meetup.com/columbus-code-and-coffee/). All are welcome!
+<a href="https://nathanspeich.netlify.app/">
+<img src="https://img.shields.io/badge/Portfolio-1f6feb?style=for-the-badge" alt="Portfolio Site" style="margin-bottom: 5px;" />
+</a>
+<a href="https://twitter.com/nathanspeich">
+<img src="https://img.shields.io/badge/twitter-1f6feb?acee.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="twitter" style="margin-bottom: 5px;" />
+</a>
+<a href="https://linkedin.com/in/nathanspeich">
+<img src="https://img.shields.io/badge/linkedin-1f6feb?E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" style="margin-bottom: 5px;" />
+</a>  
+<a href="https://angel.co/u/nathan-speich">
+<img src="https://img.shields.io/badge/AngelList-1f6feb?E77B5.svg?&style=for-the-badge&logo=AngelList&logoColor=white" alt="Angel List" style="margin-bottom: 5px;" />
+</a>  
+</div>
 
-<h3 align="left">Skills and Experience</h3>
-<p align="left"> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> </p>
+---
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nathanspeich&show_icons=true&theme=github_dark)
+<br>
+
+<!-- PROJECTS -->
+
+<h2 align="center" color="white">Projects</h2>
+<div align="center">
+	<table>
+		<tr>
+			<!--project 1 -->
+			<td width="50%">
+				<h3 align="center" color="white">Ramen Express Restaurant</h2>
+				<div align="center" > 
+					<a href="https://nathanspeich.github.io/ramen-express/">
+						<img src="https://nathanspeich.netlify.app/img/ramen-express.png" alt="Image of the Ramen Express Website" />
+					</a>
+					<br>
+					<br>
+					<p> 
+                        <!--live site --> 
+						<a href="https://nathanspeich.github.io/ramen-express/">
+							<img src="https://img.shields.io/badge/-Live Demo-green?style=for-the-badge&color=1f6feb"/>
+						</a>
+            <!--repo --> 
+						<a href='https://github.com/nathanspeich/ramen-express'>
+							<img src="https://img.shields.io/badge/View Source-grey?style=for-the-badge&logo=github"/>
+						</a> 
+					</p>
+					<p>Ramen Express was built using <strong>HTML5</strong> and <strong>CSS3</strong>.</p>
+				</div>
+			<!--project 2 -->
+			<td width="50%">
+				<h3 align="center" color="white">Bookshelf App</h2>
+				<div align="center" > 
+					<a href="https://nathanspeich.github.io/bookshelf/">
+						<img src="https://nathanspeich.netlify.app/img/bookshelf.png" alt="Image of the Bookshelf App" />
+					</a>
+					<br>
+					<br>
+					<p>
+                        <!--live site --> 
+						<a href="https://nathanspeich.github.io/bookshelf/">
+							<img src="https://img.shields.io/badge/-Live Demo-green?style=for-the-badge&color=1f6feb"/>
+						</a>
+            <!--repo --> 
+						<a href='https://github.com/nathanspeich/bookshelf'>
+							<img src="https://img.shields.io/badge/View Source-grey?style=for-the-badge&logo=github"/>
+						</a> 
+					</p>
+					<p>Bookshelf utilizes the Google Books API to fetch book data by title and was built using <strong>HTML5</strong>, <strong>CSS3</strong>, and <strong>JavaScript</strong>.</p>
+				</div>
+			</td>
+		<tr>
+			<!--project 3 -->
+			<td width="50%">
+				<h3 align="center" color="white">Cocktails App</h2>
+				<div align="center" > 
+					<a href="https://nathanspeich.github.io/cocktails/index.html">
+						<img src="https://nathanspeich.netlify.app/img/cocktails.png" alt="Image of the Cocktails App"/>
+					</a>
+					<br>
+					<br>
+					<p>
+                        <!--live site --> 
+						<a href="https://nathanspeich.github.io/cocktails/index.html">
+							<img src="https://img.shields.io/badge/-Live Demo-green?style=for-the-badge&color=1f6feb"/>
+						</a>
+            <!--repo --> 
+						<a href='https://github.com/nathanspeich/cocktails'>
+							<img src="https://img.shields.io/badge/View Source-grey?style=for-the-badge&logo=github"/>
+						</a> 
+					</p>
+					<p>Cocktails utilizes the CocktailDB API to fetch cocktail data by title or liquor type and was built using <strong>HTML5</strong>, <strong>CSS3</strong>, and <strong>JavaScript</strong>.</p>
+				</div>
+			</td>
