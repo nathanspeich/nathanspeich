@@ -1,6 +1,6 @@
 ### <h1 align="center">Hi, I'm Nathan</div>
 
-<p align="center">I am a creative, detail-oriented, software engineer with a proven track record of creating and implementing successful front and back end web applications.</p>
+<p align="center">Community taught software engineer with a deep interest in AI and Machine Learning. Proven track record of creating and implementing successful front and back end web applications.</p>
 
 <div align="center">
 
