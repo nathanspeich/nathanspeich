@@ -1,6 +1,6 @@
 ### <h1 align="center">Hi, I'm Nathan</div>
 
-<p align="center">I am a community taught software engineer with a deep interest in AI and Machine Learning. Proven track record of creating and implementing successful front and back end web applications.</p>
+<p align="center">I am a Full Stack Software Engineer with a passion for API development. Proven track record of creating and implementing successful front and back end web applications and API's.</p>
 
 <div align="center">
 
@@ -17,7 +17,10 @@
 </a>  
 <a href="https://angel.co/u/nathan-speich">
 <img src="https://img.shields.io/badge/AngelList-1f6feb?E77B5.svg?&style=for-the-badge&logo=AngelList&logoColor=white" alt="Angel List" style="margin-bottom: 5px;" />
-</a>  
+</a> 
+	
+## Languages and Tools:
+<p align="center"><img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,mysql,git,bash,linux,vscode&theme=dark&perline=8" alt="language and tools"/></p>
 </div>
 
 ---
