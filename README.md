@@ -35,6 +35,27 @@
 		<tr>
 			<!--project 1 -->
 			<td width="50%">
+				<h3 align="center" color="white">Columbus Code & Coffee</h2>
+				<div align="center" > 
+					<a href="https://cbuscodeandcoffee.com/">
+						<img src="https://nathanspeich.netlify.app/img/cbus-code-and-coffee.png" alt="Image of Columbus Code & Coffee Website" />
+					</a>
+					<br>
+					<br>
+					<p> 
+                        <!--live site --> 
+						<a href="https://cbuscodeandcoffee.com/">
+							<img src="https://img.shields.io/badge/-Live Demo-green?style=for-the-badge&color=1f6feb"/>
+						</a>
+            <!--repo --> 
+						<a href='https://github.com/cbus-code-and-coffee/main-website'>
+							<img src="https://img.shields.io/badge/View Source-grey?style=for-the-badge&logo=github"/>
+						</a> 
+					</p>
+					<p>Built using <strong>HTML5</strong>, <strong>CSS3</strong> and <strong>JavaScript</strong>.</p>
+				</div>
+			<!--project 2 -->
+			<td width="50%">
 				<h3 align="center" color="white">Ramen Express Restaurant</h2>
 				<div align="center" > 
 					<a href="https://nathanspeich.github.io/ramen-express/">
@@ -42,7 +63,7 @@
 					</a>
 					<br>
 					<br>
-					<p> 
+					<p>
                         <!--live site --> 
 						<a href="https://nathanspeich.github.io/ramen-express/">
 							<img src="https://img.shields.io/badge/-Live Demo-green?style=for-the-badge&color=1f6feb"/>
@@ -52,14 +73,16 @@
 							<img src="https://img.shields.io/badge/View Source-grey?style=for-the-badge&logo=github"/>
 						</a> 
 					</p>
-					<p>Ramen Express was built using <strong>HTML5</strong> and <strong>CSS3</strong>.</p>
+					<p>Built using <strong>HTML5</strong> and <strong>CSS3</strong>.</p>
 				</div>
-			<!--project 2 -->
+			</td>
+		<tr>
+			<!--project 3 -->
 			<td width="50%">
 				<h3 align="center" color="white">Bookshelf App</h2>
 				<div align="center" > 
 					<a href="https://nathanspeich.github.io/bookshelf/">
-						<img src="https://nathanspeich.netlify.app/img/bookshelf.png" alt="Image of the Bookshelf App" />
+						<img src="https://nathanspeich.netlify.app/img/bookshelf.png" alt="Image of the Bookshelf App"/>
 					</a>
 					<br>
 					<br>
@@ -73,10 +96,9 @@
 							<img src="https://img.shields.io/badge/View Source-grey?style=for-the-badge&logo=github"/>
 						</a> 
 					</p>
-					<p>Bookshelf utilizes the Google Books API to fetch book data by title and was built using <strong>HTML5</strong>, <strong>CSS3</strong>, and <strong>JavaScript</strong>.</p>
+					<p>Utilizes the Google Books API to fetch book data by title and was built using <strong>HTML5</strong>, <strong>CSS3</strong>, and <strong>JavaScript</strong>.</p>
 				</div>
 			</td>
-		<tr>
 			<!--project 3 -->
 			<td width="50%">
 				<h3 align="center" color="white">Cocktails App</h2>
@@ -96,6 +118,6 @@
 							<img src="https://img.shields.io/badge/View Source-grey?style=for-the-badge&logo=github"/>
 						</a> 
 					</p>
-					<p>Cocktails utilizes the CocktailDB API to fetch cocktail data by title or liquor type and was built using <strong>HTML5</strong>, <strong>CSS3</strong>, and <strong>JavaScript</strong>.</p>
+					<p>Utilizes the CocktailDB API to fetch cocktail data by title or liquor type and was built using <strong>HTML5</strong>, <strong>CSS3</strong>, and <strong>JavaScript</strong>.</p>
 				</div>
 			</td>
