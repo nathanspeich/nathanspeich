@@ -96,7 +96,7 @@
 							<img src="https://img.shields.io/badge/View Source-grey?style=for-the-badge&logo=github"/>
 						</a> 
 					</p>
-					<p>Utilizes the Google Books API to fetch book data by title and was built using <strong>HTML5</strong>, <strong>CSS3</strong>, and <strong>JavaScript</strong>.</p>
+					<p>Utilizes the Google Books API to fetch data by title and was built using <strong>HTML5</strong>, <strong>CSS3</strong>, and <strong>JavaScript</strong>.</p>
 				</div>
 			</td>
 			<!--project 3 -->
@@ -118,6 +118,6 @@
 							<img src="https://img.shields.io/badge/View Source-grey?style=for-the-badge&logo=github"/>
 						</a> 
 					</p>
-					<p>Utilizes the CocktailDB API to fetch cocktail data by title or liquor type and was built using <strong>HTML5</strong>, <strong>CSS3</strong>, and <strong>JavaScript</strong>.</p>
+					<p>Utilizes the CocktailDB API to fetch data by title or type and was built using <strong>HTML5</strong>, <strong>CSS3</strong>, and <strong>JavaScript</strong>.</p>
 				</div>
 			</td>
