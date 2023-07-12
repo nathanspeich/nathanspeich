@@ -56,23 +56,23 @@
 				</div>
 			<!--project 2 -->
 			<td width="50%">
-				<h3 align="center" color="white">Ramen Express Restaurant</h2>
+				<h3 align="center" color="white">Sidewalk Sidekick</h2>
 				<div align="center" > 
-					<a href="https://nathanspeich.github.io/ramen-express/">
-						<img src="https://nathanspeich.netlify.app/img/ramen-express.png" alt="Image of the Ramen Express Website" />
+					<a href="https://sidewalksidekick.com/">
+						<img src="https://nathanspeich.netlify.app/img/sidewalk-sidekick-main-website.png" alt="Image of the Sidewalk Sidekick Website" />
 					</a>
 					<br>
 					<br>
 					<p>
                         <!--live site --> 
-						<a href="https://nathanspeich.github.io/ramen-express/">
+						<a href="https://sidewalksidekick.com">
 							<img src="https://img.shields.io/badge/-Live Demo-green?style=for-the-badge&color=1f6feb"/>
 						</a>
             <!--repo --> 
-						<a href='https://github.com/nathanspeich/ramen-express'>
+						<a href='https://github.com/Sidewalk-Sidekick/sidewalksidekick.com'>
 							<img src="https://img.shields.io/badge/View Source-grey?style=for-the-badge&logo=github"/>
 						</a> 
 					</p>
-					<p>Built using <strong>HTML5</strong> and <strong>CSS3</strong>.</p>
+					<p>Built using <strong>ReactJS</strong> and <strong>CSS3</strong>.</p>
 				</div>
 			</td>
