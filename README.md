@@ -1,6 +1,6 @@
 ### <h1 align="center">Hi, I'm Nathan</div>
 
-<p align="center">I am a Full Stack Software Engineer with a passion for API development. Proven track record of creating and implementing successful front and back end web applications and API's.</p>
+<p align="center">Software Engineer | Co-Founder, <a href="https://sidewalksidekick.com/" target="_blank">Sidewalk Sidekick</a> | Co-Founder, <a href="https://cbuscodeandcoffee.com/" target="_blank">Columbus Code & Coffee</a></p>
 
 <div align="center">
 
