@@ -14,10 +14,7 @@
 </a>
 <a href="https://linkedin.com/in/nathanspeich">
 <img src="https://img.shields.io/badge/linkedin-1f6feb?E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" style="margin-bottom: 5px;" />
-</a>  
-<a href="https://angel.co/u/nathan-speich">
-<img src="https://img.shields.io/badge/AngelList-1f6feb?E77B5.svg?&style=for-the-badge&logo=AngelList&logoColor=white" alt="Angel List" style="margin-bottom: 5px;" />
-</a> 
+</a>
 	
 ## Languages and Tools:
 <p align="center"><img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,mysql,git,bash,linux,vscode&theme=dark&perline=8" alt="language and tools"/></p>
